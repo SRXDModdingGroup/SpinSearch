@@ -21,7 +21,7 @@ Alternatively you can install it manually:
 
 ## Installation
 
-1. Download _both_ `SRXD.SpinSearch.Plugin.dll` & `SRXD.SpinSearch.Patcher.dll` from the [latest release](https://github.com/SRXDModdingGroup/SRXDBepInExInstaller/releases/latest)
+1. Download _both_ `SRXD.SpinSearch.Plugin.dll` & `SRXD.SpinSearch.Patcher.dll` from the [latest release](https://github.com/SRXDModdingGroup/SpinSearch/releases/latest)
 2. Place the `SRXD.SpinSearch.Plugin.dll` file in the `Spin Rhythm/BepInEx/plugins` directory
 3. Place the `SRXD.SpinSearch.Patcher.dll` file in the `Spin Rhythm/BepInEx/patcher` directory
 
