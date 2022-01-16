@@ -56,7 +56,7 @@ public static class Mod
         currentTrackList = __instance switch
         {
             XDCustomLevelSelectMenu => instance.CustomTrackList,
-            //XDLevelSelectMenu => instance.LicensedTrackList,
+            XDLevelSelectMenu => instance.LicensedTrackList,
             _ => null,
         };
 
