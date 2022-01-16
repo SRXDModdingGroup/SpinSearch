@@ -1,0 +1,3 @@
+# Ignore all files but keep folder for structure
+*
+!.gitignore
