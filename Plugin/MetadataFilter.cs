@@ -14,6 +14,9 @@ public static class MetadataFilter
         {
             bool fulfillsQuery = (ContainsIgnoreCase(metadata.title, searchQuery)
                 || ContainsIgnoreCase(metadata.artistName, searchQuery)
+                || ContainsIgnoreCase(metadata.description, searchQuery)
+                || ContainsIgnoreCase(metadata.subtitle, searchQuery)
+                || ContainsIgnoreCase(metadata.featArtists, searchQuery)
                 || ContainsIgnoreCase(metadata.charter, searchQuery) );
 
             if (!fulfillsQuery)

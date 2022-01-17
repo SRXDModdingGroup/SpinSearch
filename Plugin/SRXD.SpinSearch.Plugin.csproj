@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Product>SpinSearch</Product>
-    <Version>0.1.0</Version>
+    <Version>0.3</Version>
     <AssemblyTitle>SpinSearch.Plugin</AssemblyTitle>
     <AssemblyName>SRXD.SpinSearch.Plugin</AssemblyName>
     <Copyright>Copyright © 2022 Simon Sawicki</Copyright>
