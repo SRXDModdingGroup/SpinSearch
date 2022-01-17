@@ -26,7 +26,7 @@ public static class MetadataFilter
     }
 
     private static bool ContainsIgnoreCase(string haystack, string needle) =>
-        haystack.IndexOf(needle, StringComparison.OrdinalIgnoreCase) >= 0;
+        haystack?.IndexOf(needle, StringComparison.OrdinalIgnoreCase) >= 0;
 
     public static void SetSearchFilter(string searchFilter)
     {
